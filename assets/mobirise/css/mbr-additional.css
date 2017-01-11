@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+
+
+
+#header1-4 H1 {
+  text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#header1-4 B {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+  color: #ffffff;
+}
+#menu-6 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-6 .nav-link {
+  font-size: 20px;
+}
+#menu-6 .navbar-brand {
+  font-family: 'Bitter', serif;
+}
+#msg-box4-7 .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#msg-box4-7 .lead P {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+#msg-box5-8 .lead P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#msg-box5-8 .mbr-section-title {
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+#content5-9 .mbr-section-title {
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+#content5-9 P {
+  text-align: center;
+}
+#content5-c P {
+  text-align: center;
+}
+#content5-c .mbr-section-title {
+  text-align: center;
+}
+#contacts2-e P {
+  font-size: 20px;
+}
+#contacts2-e UL {
+  font-size: 20px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
